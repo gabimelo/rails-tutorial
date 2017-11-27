@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  product: ruby 
+  cart_id: 1
+  quantity: 1
+  price: 1
+  order: one
+
+two:
+  product: ruby
+  cart_id: 2
+  quantity: 2 
+  price: 2
